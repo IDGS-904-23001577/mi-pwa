@@ -23,7 +23,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Jiovani Edit <code>src/App.jsx</code> and save to test HMR
+          Hola IDGS1004 Jiovani
         </p>
       </div>
       <p className="read-the-docs">
